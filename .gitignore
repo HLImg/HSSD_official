@@ -1,2 +1,4 @@
 results*/
 model_zoo/*
+__pycache__/*
+*/__pycache__*/

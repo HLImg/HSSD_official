@@ -28,14 +28,3 @@ All trained model parameter files can be found on [Google Drive](https://drive.g
 | ---- | ---- | ---- |
 | [Baidu Drive from SST](https://pan.baidu.com/s/1GqjTFCtNJkkqG4ENyNUFhQ?pwd=azx0)    |  [BaiDu Drive from SST](https://pan.baidu.com/s/1GqjTFCtNJkkqG4ENyNUFhQ?pwd=azx0)   | [Google Drive](https://drive.google.com/drive/folders/1CRGCTok8v8rzyH25DO6Ogp7219NFWzAJ)   |
 
-
-### BibTex
-```bibtex
-@InProceedings{liang2024hybrid,
-    author = {Liang, Hao and Ke Chengjie and Li, Kun},
-    title = {Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising},
-    booktitle = {Proceedings of the European conference on computer vision (ECCV) workshops},
-    year = {2024},
-    organization={Springer}
-}
-```

@@ -1,5 +1,5 @@
 ## Pytorch implementation of HSSD
-Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denosing
+Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising
 ### Gaussian Noise Denoising
 ```python
 python test_icvl_gaussian.py --arch=proposed_base_icvl --device='cuda' --index=1 --ckpt=model_zoo/proposed_dw/icvl_gaussian_base.ckpt --save_dir=./results/proposed_base
